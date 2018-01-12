@@ -13,7 +13,7 @@ npm install
 cd ../taopiaopiao/server
 npm install
 
-# start server
+# start the server
 cd ../taopiaopiao/server
 npm start
 
